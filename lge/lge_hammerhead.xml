@@ -1,2 +1,2 @@
 <project path="device/lge/hammerhead" name="ubports/android_device_lge_hammerhead" remote="ubp" />
-<project path="kernel/lge/hammerhead" name="ubports/android_kernel_lge_hammerhead" remote="ubp" /> 
+<project path="kernel/lge/hammerhead" name="ubports/android_kernel_lge_hammerhead" remote="ubp" />
