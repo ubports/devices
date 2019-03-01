@@ -1,4 +1,3 @@
-<project path="kernel/fairphone/FP2" name="android_kernel_fairphone_fp2" remote="ubp" />
-<project path="device/fairphone/FP2" name="android_device_fairphone_fp2" remote="ubp" /> 
+<project path="kernel/fairphone/FP2" name="ubports/android_kernel_fairphone_fp2" remote="ubp" />
+<project path="device/fairphone/FP2" name="ubports/android_device_fairphone_fp2" remote="ubp" /> 
 <project path="device/qcom/common" name="android_device_qcom_common" remote="cm" />
-
